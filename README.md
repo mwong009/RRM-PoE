@@ -14,6 +14,8 @@ HTML files: model estimation results
 ### Dataset
 ```biogeme_trh.csv```
 
+Dataset tech report: [Sp_TrainHotel_Draft 5_Oct 27.2016.pdf](https://github.com/LiTrans/RRM-PoE/blob/master/Sp_TrainHotel_Draft%205_Oct%2027.2016.pdf)
+
 ## Getting started
 To run, use ```python3 rrm-poe.py```.
 Optionally, to test the dataset on different models, replace ```rrm-poe.py``` with the appropriate python script.
