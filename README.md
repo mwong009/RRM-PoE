@@ -1,6 +1,14 @@
 # RRM-PoE
 An example of a product of experts (PoE) choice model using BIOGEME
 
+Product of experts uses the product function to generate the utility function:
+
+```
+\frac{1}{Z} \prod p(y_j|y_k)f(y_k)
+```
+
+Random regret models can be formulated as a PoE which is shown in this project
+
 ## File description 
 Model files: 
 - ```rrm-poe.py``` Product of Experts model to calculate a random regret model
