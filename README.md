@@ -8,7 +8,7 @@ Model files:
 - ```rrm2010.py``` original formulation of the regret function (RRM2010 paper)
 - ```logit.py``` standard MNL model
 - ```mixedlogit.py``` mixed logit model
-
+ 
 HTML files: model estimation results
 
 ### Dataset
